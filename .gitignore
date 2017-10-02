@@ -54,11 +54,4 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
-app/libs/
-app/src/main/res/drawable/
-build.gradle
-gradle.properties
 gradle/
-gradlew
-gradlew.bat
-settings.gradle
